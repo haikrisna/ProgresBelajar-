@@ -30,6 +30,19 @@ Menyelesaikan Kelas Pengenalan Data pada Pemrograman (Data 101)
     
   * Penyimpanan Database
 
+    
+**6 April 2023**  
+
+Menyelesaikan Kelas Pengenalan ke Logika Pemrograman (Data 101)
+
+  * Mempelajari gerbang logika
+
+  * Pengenalan Dasar Computational Thingking
+    
+  * Mengaplikasikan penerapan pola gerbang logika pada algoritma
+
+
+
 **20 April 2023**  
 
 Menyelesaikan Belajar Dasar Git dengan GitHub
@@ -41,4 +54,39 @@ Menyelesaikan Belajar Dasar Git dengan GitHub
   * Kolaborasi dengan tim pada repository yang sama
     
   * Mempelajari menyalin repository dan menangani pull request pada sebuah repository aktif di GitHub
+
+
+**7 Mei 2023** 
+
+Menyelesaikan Course Dasar-Dasar DevOps
+  * Prinsip DevOps 
+
+  * CALMS Framework
+    
+  * Praktik DevOps
+
+    
+**25 September 2023** 
+
+Menyelesaikan Course Dasar Manajemen Proyek
+  * Pengenalan Manajemen Proyek
+
+  * Siklus dan Metodologi Manajemen Proyek. 
+    
+  * Struktur dan Budaya Organisasi
+
+
+**2 Oktober 2023** 
+
+Menyelesaikan Course Dasar Structured Query Language (SQL)
+  * Pengenalan Basis Data
+
+  * DBMS 
+    
+  * Basic Query
+
+
+    
+
+
     
