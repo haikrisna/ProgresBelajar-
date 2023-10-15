@@ -1,33 +1,44 @@
 Repository 
 
 
-**14 Juni 2021**  
+**23 Maret 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+Menyelesaikan Kelas Meniti Karir Sebagai Web developer
 
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
+  * Pengenalan berbagai macam jalur karier yang ada di dalam software deeloper
 
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Mengenal apa itu Android Developer, iOS Developer, Multi-Platform App Developer (Flutter), Front-End Web Developer, Machine Learning Developer, dan Azure Cloud Developer.
 
 
-**15 Juni 2021**  
+**3 April 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+Menyelesaikan Kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 
-  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-
-  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+  * Belajar analisis dan evealuasi perangkat lunak sesuai kebutuhan pengguna
+    
+  * Belajar membuat perencanaan modifikasi aplikasi perangkat lunak
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
 
-**20 Juni 2021**  
+**5 April 2023**  
 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+Menyelesaikan Kelas Pengenalan Data pada Pemrograman (Data 101)
 
-  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+  * Pengenalan Data dan Informasi
 
-  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
+  * Pemrosesan Data pada Komputer
+    
+  * Penyimpanan Database
 
-  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+**20 April 2023**  
 
-  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+Menyelesaikan Belajar Dasar Git dengan GitHub
+
+  * Dasar Git 
+
+  * Git Branches
+    
+  * Kolaborasi dengan tim pada repository yang sama
+    
+  * Mempelajari menyalin repository dan menangani pull request pada sebuah repository aktif di GitHub
+    
